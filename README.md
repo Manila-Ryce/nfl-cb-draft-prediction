@@ -8,7 +8,7 @@ measurements.
 
 - 📊 Exploratory analysis of NFL Combine and NFL Draft data
 - 🧠 MLP and Logistic Regression models for predicting draft outcomes
-- 📁 Dataset: NCAA cornerback stats, combine metrics, draft outcomes
+- 📁 Dataset: NCAA cornerback combine metrics, draft outcomes
 - 🛠 Tools: Python, Pandas, Scikit-learn, TensorFlow/Keras, Jupyter
 
 ## Repository Structure
