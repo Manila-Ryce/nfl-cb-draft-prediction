@@ -9,7 +9,7 @@ dissertation.
 - Exploratory analysis of NFL Combine and NFL Draft data
 - Median Imputation by Draft Round
 - K-Means and K-Prototypes Clustering
-- LP and Logistic Regression models for predicting draft outcomes
+- MLP and Logistic Regression models for predicting draft outcomes
 - Draft Round Prediction Monte Carlo Simulator
 - Dataset: NCAA cornerback Combine metrics, Draft outcome
 
