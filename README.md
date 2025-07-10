@@ -15,7 +15,6 @@ measurements.
 
 - `NFL Combine Cornerback Data Analysis.ipynb` – main notebook
 - `Cornerback Data_NCAA_2015_Combine.xlsx` – combined dataset
-- `CB Draft Round Prediction ReadMe.docx` – original summary
 
 ## Author
 
