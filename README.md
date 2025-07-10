@@ -11,7 +11,6 @@ dissertation.
 - K-Means and K-Prototypes Clustering
 - MLP and Logistic Regression models for predicting draft outcomes
 - Draft Round Prediction Monte Carlo Simulator
-- Dataset: NCAA cornerback Combine metrics, Draft outcome
 
 ## Packages
 - Python
