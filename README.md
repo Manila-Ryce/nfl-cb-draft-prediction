@@ -2,19 +2,30 @@
 
 This project uses Logistic Regression and MLP to predict 
 draft round for cornerbacks based on NFL Combine drills and body 
-measurements. 
+measurements. This project is derived from my ongoing PhD
+dissertation.
 
 ## Contents
 
 - Exploratory analysis of NFL Combine and NFL Draft data
+- Median Imputation by Draft Round
+- K-Means and K-Prototypes Clustering
 - LP and Logistic Regression models for predicting draft outcomes
-- Dataset: NCAA cornerback combine metrics, draft outcomes
+- Draft Round Prediction Monte Carlo Simulator
+- Dataset: NCAA cornerback Combine metrics, Draft outcome
 - Tools: Python, Pandas, Scikit-learn, TensorFlow/Keras, Jupyter
 
 ## Repository Structure
 
 - `NFL Combine Cornerback Data Analysis.ipynb` – main notebook
 - `Cornerback Data_NCAA_2015_Combine.xlsx` – combined dataset
+
+## Next Steps
+
+- Add more predictors (e.g., # of NCAA seaons/games/snaps, NCAA PFF grades)
+- Add more target variables (e.g., # of games/staerts/snaps with drafting team)
+- Model outcomes using LSTM
+- STAY TUNED FOR MORE DEVELOPMENTS!
 
 ## Author
 
